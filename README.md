@@ -1,0 +1,4 @@
+Jon Marius gritou muito no recente show de Justin Bieber, e agora precisa ir ao médico por causa de sua dor de garganta. As instruções do médico são para dizer "aaah". Infelizmente, os médicos às vezes precisam que Jon Marius diga “aaah” por um tempo, o que Jon Marius nunca foi bom. Cada médico requer um certo nível de “aah” - alguns requerem “aaaaaah”, enquanto outros podem realmente diagnosticar sua garganta com apenas um “h”. (Eles costumam diagnosticar erroneamente, mas isso está além do escopo deste problema.) Como Jon Marius não quer ir ao médico e perder tempo, ele quer comparar quanto tempo consegue segurar o “aaah” com o requisitos do médico. (Afinal, quem quer ser todo tipo “aaah” quando o médico quer que você diga “aaaaaah”?)
+
+A cada dia Jon Marius liga para um médico diferente e pergunta quanto tempo seu “aaah” deve durar. Descubra se Jon Marius perderia seu tempo indo ao médico determinado.
+
